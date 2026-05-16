@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351885806060",
+    "project_id": "voting-app-ddc31",
+    "storage_bucket": "voting-app-ddc31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351885806060:android:50be7421405e22a87118c9",
+        "android_client_info": {
+          "package_name": "com.example.voting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9kq3WS9aKjj0vSpmBxyECw8XzBBOmHh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
