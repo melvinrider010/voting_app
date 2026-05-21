@@ -12,10 +12,15 @@ dependencies:
   flutter:
     sdk: flutter
 
+  cupertino_icons: ^1.0.6
+
   firebase_core: ^2.25.4
   firebase_auth: ^4.16.0
   cloud_firestore: ^4.17.5
+  firebase_storage: ^11.7.7
+
   geolocator: ^11.0.0
+  image_picker: ^1.1.2
 
   otp: ^3.1.4
   qr_flutter: ^4.1.0
@@ -27,7 +32,6 @@ dev_dependencies:
   flutter_lints: ^6.0.0
 
 flutter:
-
   uses-material-design: true
 
   assets:
